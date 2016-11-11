@@ -1,6 +1,6 @@
 applications:
 - path: .
-  memory: 1024M
+  memory: 256G
   instances: 1
   domain: mybluemix.net
   name: LoopBackStarter1234
