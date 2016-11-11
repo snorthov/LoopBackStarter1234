@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 1024M
+  instances: 1
+  domain: mybluemix.net
+  name: LoopBackStarter1234
+  host: LoopBackStarter1234
+  disk_quota: 1024M
